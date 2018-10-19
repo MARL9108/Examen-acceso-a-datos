@@ -1,5 +1,7 @@
 # Examen-acceso-a-datos
 2da parte de la prueba
+# Url de enlace
+https://github.com/MARL9108/Examen-acceso-a-datos.git
 # Ejercicio 1
 La principal diferencia es que los objetos IQueryable<T> de LINQ usan expresiones en lugar de delegados.
 IEnumerable<T> es útil para trabajar con secuencias que se iteran en la memoria pero IQueryable<T>; es ideal 
